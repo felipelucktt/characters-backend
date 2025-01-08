@@ -1,0 +1,1 @@
+INSERT INTO characters (name, age, race, kinship, abilities, short_description, long_description, img) VALUES ('Agner', 21, 'Neveriano', 'Kiara (Irmã), Gil (Pai), Ana (mãe).', 'Criação e manipulação de raios, força e resistência sobre humanas, habilidade com a espada.', null, null, 'http://localhost:8080/images/Agner.png');
