@@ -16,6 +16,8 @@ public class Characters {
     private String race;
     private String kinship;
     private String abilities;
+
+    @Column(columnDefinition = "TEXT")
     private String description;
     private String img;
 
