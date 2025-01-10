@@ -16,8 +16,7 @@ public class Characters {
     private String race;
     private String kinship;
     private String abilities;
-    private String shortDescription;
-    private String longDescription;
+    private String description;
     private String img;
 
     public String getImg() {
@@ -76,20 +75,12 @@ public class Characters {
         this.abilities = abilities;
     }
 
-    public String getShortDescription() {
-        return shortDescription;
+    public String getDescription() {
+        return description;
     }
 
-    public void setShortDescription(String shortDescription) {
-        this.shortDescription = shortDescription;
-    }
-
-    public String getLongDescription() {
-        return longDescription;
-    }
-
-    public void setLongDescription(String longDescription) {
-        this.longDescription = longDescription;
+    public void setDescription(String description) {
+        this.description = description;
     }
 
     @Override
