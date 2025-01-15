@@ -5,7 +5,7 @@
 4. [Uso](#uso)
 5. [API Endpoints](#api-endpoints)
 6. [Exemplos de Requisição](#exemplos-de-requisição)
-7. [Configuração com PostgreSQL](#configuração-com-postgresql)
+7. [Configuração com PostgreSQL](#como-usar-o-projeto-com-o-banco-de-dados-PostgreSql)
 # Neverians Characters
 Como além de programador, sou escritor nas horas vagas, esse é um projeto que tem como objetivo listar os personagens do livro que estou escrevendo. Além de listar os personagens já existentes na base de dados, é possível adicionar um novo personagem, editar informações de um personagem já existente e deletar um personagem.
 ## Tecnologias Utilizadas
